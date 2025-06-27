@@ -1,4 +1,4 @@
-//base by HANSTZ
+I'm//base by HANSTZ
 //YouTube: @HANSTZ-TECH
 //Whatsapp https://wa.me/255614195217
 //GitHub: @Mrhanstz
@@ -9,8 +9,8 @@ const chalk = require('chalk')
 require('dotenv').config()
 
 //contact details - sensitive info moved to .env
-global.SESSION_ID = process.env.SESSION_ID || "" //fallback to default if not in .env
-global.ownernomer = process.env.OWNER_NUMBER || "255614195217"
+global.SESSION_ID = process.env.SESSION_ID || "" //N1K7PREK
+global.ownernomer = process.env.OWNER_NUMBER || "2349018428202"
 
 global.ownername = process.env.OWNER_NAME || "HansTech"
 
@@ -20,7 +20,7 @@ global.socialm = "GitHub: Mrhanstz"
 
 global.location = "AFRICA, TANZANIA, DODOMA"
 
-global.ownernumber = process.env.OWNER_NUMBER || '255614195217'  //Owner number
+global.ownernumber = process.env.OWNER_NUMBER || '2349018428202'  //Owner number
 
 global.ownername = process.env.OWNER_NAME || 'HANSTZ' //owner name
 global.botname = 'HANS-XMD' //name of the bot
